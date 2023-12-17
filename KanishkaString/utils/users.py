@@ -1,4 +1,4 @@
-from StringGen import db
+from KanishkaString import db
 
 usersdb = db.users
 
