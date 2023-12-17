@@ -85,10 +85,4 @@ Press `Ctrl+b` and then `d`
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/CoderXKrishna)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/CoderXKrishna/FallenMusic)</b>
-
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/CoderXKrishna/Kanishka_String_Session/graphs/contributors) 
 ━━━━━━━━━━━━━━━━━━━━
